@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Environment files (NEVER commit)
+.env
+backend/.env
+*.env.local
+
+# Data & vector stores (large files - use .env to configure paths)
+data/uploads/
+vectorstore/faiss_index/
+vectorstore/chroma_db/
+logs/
+
+# Keep directory structure
+!data/.gitkeep
+!vectorstore/.gitkeep
+!logs/.gitkeep
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env.local
+.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Docker
+*.log

@@ -1,0 +1,24 @@
+{
+  "a6cdf1ef-4ca2-4ce9-964b-2bf463624023": {
+    "doc_id": "a6cdf1ef-4ca2-4ce9-964b-2bf463624023",
+    "filename": "Ashish_Resume.pdf",
+    "file_path": "data\\uploads\\a6cdf1ef-4ca2-4ce9-964b-2bf463624023_Ashish_Resume.pdf",
+    "file_size_kb": 143.37,
+    "file_hash": "99470ec214ce9e667a322291a051ba617771d98a04b34484a2ece12f618db7fa",
+    "status": "indexed",
+    "chunks_created": 3,
+    "created_at": "2026-06-13T12:00:42.822510",
+    "updated_at": "2026-06-13T12:00:44.982683"
+  },
+  "1a018f93-0c5a-46e2-ac62-b1114475ed1d": {
+    "doc_id": "1a018f93-0c5a-46e2-ac62-b1114475ed1d",
+    "filename": "AI_Document_Intelligence_System.docx",
+    "file_path": "data\\uploads\\1a018f93-0c5a-46e2-ac62-b1114475ed1d_AI_Document_Intelligence_System.docx",
+    "file_size_kb": 33.46,
+    "file_hash": "96b96687a6f4a1ce896ab8503f8388148ca022500319575bc0dab0aa57b06ad0",
+    "status": "indexed",
+    "chunks_created": 2,
+    "created_at": "2026-06-13T12:09:37.973551",
+    "updated_at": "2026-06-13T12:09:49.079766"
+  }
+}

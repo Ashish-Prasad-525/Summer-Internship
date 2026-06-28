@@ -1,0 +1,117 @@
+{
+  "25661e23-57fa-4fd3-9ca6-1386318ae01b": {
+    "session_id": "25661e23-57fa-4fd3-9ca6-1386318ae01b",
+    "created_at": "2026-06-13T12:03:21.556186",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Summarize the key points of the uploaded documents",
+        "ts": "2026-06-13T12:03:21.556924"
+      },
+      {
+        "role": "assistant",
+        "content": "1. Ashish has a strong foundation in programming languages such as Python, Java, C++, HTML, CSS, JavaScript and data analysis tools like NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, MySQL, MongoDB along with visualization tools including Tableau & Power BI.\n2. Ashish has completed various certifications in fundamental algorithms design/analysis (NPTEL Silver Certificate), data structure and algorithm training for C language from Edu-Skills Successfully, AWS Academy Training Badge of Cloud Foundation & Generative AI along with IEEE & SIH Qualifier Round Certification for Technical Proficiency.\n3. Ashish has hands-on experience in building real world projects such as sentiment analysis systems and flood prediction models using LSTM based system trained on 16 years data, automated real-time data collection from open APIs (Open-Meteo & GloFAS) with zero manual input for Urban Flood Early Warning System.\n4. Ashish has developed a multi-model NLP app that includes VADER + RoBERTa + DistilBERT models and features such as negation handling, ensemble scoring along with 7-class emotion analysis system on GitHub. He also built thread-safe SQLite backend for the project which supports CRUD operations, CSV/JSON exporting capabilities and real-time Matplotlib visualizations.\n5. Ashish is an aspiring Data Analyst & Machine Learning enthusiast currently pursuing B.Tech in Computer Science (AI&ML) with a strong foundation of skills required to excel as a data analyst or machine learning engineer, seeking internship opportunities for practical experience and growth.",
+        "ts": "2026-06-13T12:03:21.557410"
+      },
+      {
+        "role": "user",
+        "content": "skills",
+        "ts": "2026-06-13T12:06:41.437564"
+      },
+      {
+        "role": "assistant",
+        "content": "Programming Languages: Python, Java, C++, HTML, CSS, JavaScript  \nWeb Development Tools: Google Collab, Git & GitHub   \nData Analysis and Machine Learning Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch    \nDatabases: MySQL, MongoDB  \nVisualization Tools: Tableau, Power BI  \nCertifications in Data Structure & Algorithms (C), Cloud Foundation and Generative AI from AWS Academy.",
+        "ts": "2026-06-13T12:06:41.438034"
+      },
+      {
+        "role": "user",
+        "content": "projects",
+        "ts": "2026-06-13T12:09:03.409273"
+      },
+      {
+        "role": "assistant",
+        "content": "Projects: AI-Based Sentiment Analysis System on GITHUB - Multi-model NLP app with ensemble scoring and negation handling for emotion analysis. Urban Flood Early Warning System on GITHUB - LSTM-based flood risk prediction system trained on historical data, automated real-time API collection from Open-Meteo, GloFAS, Flask REST API + web dashboard deployment with alerts and location detection features.\n\n",
+        "ts": "2026-06-13T12:09:03.409592"
+      }
+    ],
+    "updated_at": "2026-06-13T12:09:03.409610"
+  },
+  "e7d40e76-77c9-4fdb-8dcb-946cd54e86bc": {
+    "session_id": "e7d40e76-77c9-4fdb-8dcb-946cd54e86bc",
+    "created_at": "2026-06-27T08:56:08.445401",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Summarize the key points of the uploaded documents",
+        "ts": "2026-06-27T08:56:08.445967"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI Document Intelligence System is being developed to address issues with locating information within large sets of PDFs by creating a document chat system where users can ask questions in plain English, and receive clear answers citing exact parts from their own or other company's documents. The core RAG pipeline processes user messages automatically through six steps upon uploading files: file validation, metadata extraction, content parsing for keywords/entities, context analysis to understand the query better, searching within document contents using AI algorithms like BM25 and TF-IDF, and finally generating a response with citations. The system's user interface consists of three main screens designed for ease of use: uploading documents, asking questions in chat format, and viewing answers along with source references. Technically, the application communicates between frontend (website) and backend (server) through API endpoints that handle specific tasks such as file validation or content retrieval. The project's folder structure is organized to clearly define roles like upload handling, document processing, chat management, etc. Benefits include saving time by avoiding manual searches within documents and ensuring accurate information extraction with citations for reference purposes. [Document: AI_Document_Intelligence_System.docx, Page: 1-2]",
+        "ts": "2026-06-27T08:56:08.446249"
+      }
+    ],
+    "updated_at": "2026-06-27T08:56:08.446277"
+  },
+  "416404b7-bae7-4016-809c-8dddb823dab3": {
+    "session_id": "416404b7-bae7-4016-809c-8dddb823dab3",
+    "created_at": "2026-06-27T09:46:34.848063",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Summarize the key points of the uploaded documents",
+        "ts": "2026-06-27T09:46:34.848109"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI Document Intelligence System is being developed to address issues with finding information in large sets of PDFs by creating an intelligent document chat system that allows users to ask questions and receive clear, citable answers directly from their own files. The core RAG pipeline processes user queries through six steps upon uploading a file or sending a message:\n\n1. Upload File (Flow A) - Initiates the process by automatically running 6 background steps when you upload your document(s).\n2. Ask Question and Receive Answer (Flow B & C) - The system processes questions through its RAG pipeline, providing answers with citations from uploaded documents using a librarian-like approach to search within texts for relevant information.\n3. Tech Stack Selection: A suite of tools is chosen based on their specific utility in the project's workflow (Flow D). Each tool serves distinct functions such as natural language processing and document management, with justifications provided for each selection.\n4. User Interface Design: The application consists of three main screens that guide users through uploading documents, asking questions, and viewing answers along with citations from the original texts (Flow E & F).\n5. API Endpoints - These are defined as buttons or triggers within the frontend to communicate specific tasks between website interface and server backend processes efficiently (Flow G).\n6. Project Organization: The project files follow a clear folder structure, each dedicated to particular aspects of development like data processing pipelines, model training components, etc., ensuring organized management throughout the system's lifecycle (Flow H & I).\n7. Benefits - Users gain time-saving advantages by not manually searching through documents and receiving precise answers with direct citations for easy verification (Flow J).",
+        "ts": "2026-06-27T09:46:34.848120"
+      }
+    ],
+    "updated_at": "2026-06-27T09:46:34.848128"
+  },
+  "7a9b4cbe-26c7-4087-b18c-19fc2a4a9956": {
+    "session_id": "7a9b4cbe-26c7-4087-b18c-19fc2a4a9956",
+    "created_at": "2026-06-27T09:55:09.256896",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Summarize the key points of the uploaded documents",
+        "ts": "2026-06-27T09:55:09.256977"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI Document Intelligence System is designed to address inefficiencies faced by companies with large document repositories, where finding specific information can be time-consuming and error-prone (AI_Document_Intelligence_System.docx: Page 1). The system aims to solve this problem through the development of an intelligent chat interface that allows users to upload documents and ask questions in plain English ([AI_Document_Intelligence_System.docx, Page 2]).\n\nThe core functionality involves three main flows (Flow A-C): when you upload a document, it triggers six automatic steps; asking a question initiates the RAG pipeline that searches for relevant information within documents and generates an answer with citations ([AI_Document_Intelligence_System.docx, Page 4]). The user interface consists of three main screens (Flow C: [AI_Document_Intelligence_System.docx, Page 5]), while the backend technology stack is detailed in Flow D-F, explaining why specific tools were chosen for their functionality ([API Endpoints and Folder Structure sections from AI_Document_Intelligence_System.docx]).\n\nThe system's benefits are summarized under \"Benefits at a Glance,\" which likely highlight the efficiency gains in finding information within documents, though this section is not explicitly detailed in your provided context ([AI_Document_Intelligence_System.docx: Page 6]).",
+        "ts": "2026-06-27T09:55:09.257002"
+      },
+      {
+        "role": "user",
+        "content": "skills",
+        "ts": "2026-06-27T09:58:30.116425"
+      },
+      {
+        "role": "assistant",
+        "content": "I couldn't find this information in the uploaded documents.",
+        "ts": "2026-06-27T09:58:30.116496"
+      }
+    ],
+    "updated_at": "2026-06-27T09:58:30.116519"
+  },
+  "c50b3b9f-e5ee-423b-a8a3-4ff511422efe": {
+    "session_id": "c50b3b9f-e5ee-423b-a8a3-4ff511422efe",
+    "created_at": "2026-06-27T09:59:17.787247",
+    "messages": [
+      {
+        "role": "user",
+        "content": "skills",
+        "ts": "2026-06-27T09:59:17.787664"
+      },
+      {
+        "role": "assistant",
+        "content": "- Programming Languages: Python, Java, C, C++, SQL (MySQL and MongoDB)\n- Web Development: HTML, CSS, JavaScript\n- Tools & Frameworks: Visual Studio Code, Google Colab, Git & GitHub, MS Excel, Tableau, Power BI\n- Data Analysis & Machine Learning libraries/tools: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch",
+        "ts": "2026-06-27T09:59:17.787690"
+      }
+    ],
+    "updated_at": "2026-06-27T09:59:17.787697"
+  }
+}
