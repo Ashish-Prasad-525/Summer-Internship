@@ -1,4 +1,4 @@
-# 🧠 AI Document Search Intelligence System
+# 🧠 AI Document Search Intelligence System(RAG | LangChain)
 
 > **Production-grade RAG-powered Document Search & Chat Platform**
 > Built with FastAPI · LangChain · FAISS · React · Tailwind CSS
