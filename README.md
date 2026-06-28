@@ -1,4 +1,4 @@
-# 🧠 AI Document Intelligence System
+# 🧠 AI Document Search Intelligence System
 
 > **Production-grade RAG-powered Document Search & Chat Platform**
 > Built with FastAPI · LangChain · FAISS · React · Tailwind CSS
@@ -87,7 +87,7 @@
 
 ### 1. Clone
 ```bash
-git clone https://github.com/yourname/ai-document-rag-system.git
+git clone https://github.com/Ashish-Prasad-525/Summer-Internship.git
 cd ai-document-rag-system
 ```
 
